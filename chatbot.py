@@ -801,7 +801,7 @@ div[data-testid="stForm"] button[data-testid="stBaseButton-secondaryFormSubmit"]
                 font-size:40px !important;
                 font-weight: 600 !important;}
                 
-h1, h2, h3, h4 {
+h1, h2{
     background: linear-gradient(90deg, #8e2de2, #4a00e0);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
