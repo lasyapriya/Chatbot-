@@ -811,20 +811,6 @@ h1, h2{
     margin-bottom: 1rem;
 }
 
-.stFileUploader {
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
-    margin: 0 auto !important;
-    width: 650px !important;
-    height: 200px !important;
-    border: 2px dashed rgba(255,255,255,0.6) !important;
-    background-color: rgba(120, 115, 245, 0.2) !important;
-    backdrop-filter: blur(6px) !important;
-    border-radius: 16px !important;
-    color: white !important;
-}
-
 </style>       
 """, unsafe_allow_html=True)
 
