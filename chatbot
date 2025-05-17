@@ -720,7 +720,12 @@ h1, h2, h3, h4 {
                 .st-emotion-cache-br351g {
                 font-size:28px !important;
                 font-weight: 600 !important;
-                color: linear-gradient(90deg, #1B263B, #415A77);
+                   background: linear-gradient(90deg, #1B263B, #415A77);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+
+
                 }
  .st-emotion-cache-1s2v671 {
                 width:550px !important;
