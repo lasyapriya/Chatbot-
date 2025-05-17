@@ -800,6 +800,12 @@ div[data-testid="stForm"] button[data-testid="stBaseButton-secondaryFormSubmit"]
                 background:linear-gradient(to right, #1e3c72, #2a5298, #6a0572);
                 font-size:40px !important;
                 font-weight: 600 !important;}
+                h1, h2, h3, h4 {
+    background: linear-gradient(90deg, #6a0572, #3a0ca3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+}
 
 </style>       
 """, unsafe_allow_html=True)
